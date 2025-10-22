@@ -1,0 +1,73 @@
+Example Output from GitTrack
+=============================
+
+$ python gittrack.py torvalds/linux
+
+============================================================
+GitTrack - Repository Activity Tracker
+============================================================
+
+Fetching information for: torvalds/linux
+Timestamp: 2025-10-22 01:58:00
+
+Repository: torvalds/linux
+Description: Linux kernel source tree
+Language: C
+Created: 2011-09-04T22:48:12Z
+Last Updated: 2025-10-22T01:50:00Z
+
+------------------------------------------------------------
+
+Key Metrics:
+  ⭐ Stars:        150,234
+  🍴 Forks:        50,123
+  👁️  Watchers:     150,234
+  
+  Fetching commit count...
+  💻 Commits:      1,234,567
+  Fetching issues count...
+  📝 Issues:       500 (Open: 100, Closed: 400)
+  Fetching pull requests count...
+  🔀 Pull Requests: 1,000 (Open: 50, Closed: 950)
+
+------------------------------------------------------------
+
+Repository URL: https://github.com/torvalds/linux
+
+============================================================
+
+
+$ python gittrack.py facebook/react
+
+============================================================
+GitTrack - Repository Activity Tracker
+============================================================
+
+Fetching information for: facebook/react
+Timestamp: 2025-10-22 01:58:00
+
+Repository: facebook/react
+Description: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+Language: JavaScript
+Created: 2013-05-24T16:15:54Z
+Last Updated: 2025-10-22T01:55:00Z
+
+------------------------------------------------------------
+
+Key Metrics:
+  ⭐ Stars:        220,456
+  🍴 Forks:        45,123
+  👁️  Watchers:     220,456
+  
+  Fetching commit count...
+  💻 Commits:      16,789
+  Fetching issues count...
+  📝 Issues:       12,345 (Open: 789, Closed: 11,556)
+  Fetching pull requests count...
+  🔀 Pull Requests: 15,678 (Open: 123, Closed: 15,555)
+
+------------------------------------------------------------
+
+Repository URL: https://github.com/facebook/react
+
+============================================================
