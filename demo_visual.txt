@@ -1,0 +1,42 @@
+┌────────────────────────────────────────────────────────────┐
+│                    GitTrack Demo Output                    │
+└────────────────────────────────────────────────────────────┘
+
+$ python gittrack.py facebook/react
+
+============================================================
+GitTrack - Repository Activity Tracker
+============================================================
+
+Fetching information for: facebook/react
+Timestamp: 2025-10-22 02:06:47
+
+Repository: facebook/react
+Description: A declarative, efficient, and flexible JavaScript library
+             for building user interfaces.
+Language: JavaScript
+Created: 2013-05-24T16:15:54Z
+Last Updated: 2025-10-22T02:06:47Z
+
+------------------------------------------------------------
+
+Key Metrics:
+  ⭐ Stars:        220,456
+  🍴 Forks:        45,123
+  👁️  Watchers:     220,456
+
+  Fetching commit count...
+  💻 Commits:      16,789
+  
+  Fetching issues count...
+  📝 Issues:       12,345 (Open: 789, Closed: 11,556)
+  
+  Fetching pull requests count...
+  🔀 Pull Requests: 15,678 (Open: 123, Closed: 15,555)
+
+------------------------------------------------------------
+
+Repository URL: https://github.com/facebook/react
+
+============================================================
+
